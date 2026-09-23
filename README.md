@@ -1,4 +1,4 @@
-# The Vault — a crackme
+# The Vault a crackme
 
 A five-gate serial validator. Enter a username and a three-part serial (`A-B-C`). Each gate checks one part. Get them all right, the vault opens.
 
